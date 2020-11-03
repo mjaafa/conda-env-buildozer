@@ -1,0 +1,3 @@
+title=FX-Tools
+author=Mohamed JAAFAR
+orientation=portrait
